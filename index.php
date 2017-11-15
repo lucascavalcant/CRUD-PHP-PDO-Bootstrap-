@@ -6,7 +6,7 @@ include "config.php";
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-   <title>JeanWEB - Crud PDO</title>
+   <title>Lucas Cavalcante - CRUD PHPOO</title>
   <meta name="description" content="JeanWEB Crud PDO, www.jeanweb.com.br" />
   <meta name="robots" content="index, follow" />
    <meta name="author" content="Jean Paul"/>
